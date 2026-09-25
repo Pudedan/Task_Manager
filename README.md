@@ -28,7 +28,8 @@
 * Action Confirmation
   * Delete Confirmation
 
-<img width="1917" height="870" alt="image" src="https://github.com/user-attachments/assets/ba791a23-fcc8-44c5-a852-6393da34ae9a" />
+<img width="940" height="439" alt="image" src="https://github.com/user-attachments/assets/e8efd0a4-015f-4ed7-9ac8-932e610051cf" />
+
 
 <img width="1911" height="883" alt="image" src="https://github.com/user-attachments/assets/6e1f7eb3-7b1c-4637-b47d-5fd672748180" />
 
